@@ -1,0 +1,11 @@
+{application,balcony_pid_provider,
+             [{description,"An OTP application"},
+              {vsn,"0.1.0"},
+              {registered,[]},
+              {mod,{balcony_pid_provider_app,[]}},
+              {applications,[kernel,stdlib]},
+              {env,[]},
+              {modules,[balcony_pid_provider,balcony_pid_provider_app,
+                        balcony_pid_provider_sup]},
+              {licenses,["Apache-2.0"]},
+              {links,[]}]}.
