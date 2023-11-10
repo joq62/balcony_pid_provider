@@ -1,6 +1,6 @@
 [{<<"balcony_pid">>,
   {git,"https://github.com/joq62/balcony_pid.git",
-       {ref,"2aff013dbc11723f5efecf8422390ffe4ac35057"}},
+       {ref,"b98408f4e6afa44e37b36da2446c13a35da894d5"}},
   0},
  {<<"log">>,
   {git,"https://github.com/joq62/log.git",
